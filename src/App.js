@@ -6,7 +6,7 @@ import statData from "./statistics-data/statistical-data.json"
 import FriendList from './components/FriendList/FriendList'
 import friends from './friends/friends.json';
 import transactions from './transactions/transactions.json'
-console.log(friends)
+
 
 
 

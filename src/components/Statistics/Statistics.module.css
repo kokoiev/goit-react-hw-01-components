@@ -1,0 +1,35 @@
+@import-normalize;
+.container {
+  width: 400px;
+  margin: 0 auto;
+  background-color: #ccc;
+  text-align: center;
+}
+.item {
+  width: 60px;
+  height: 60px;
+}
+.statList {
+  margin-top: 0px;
+  padding-left: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+  padding-bottom: 0px;
+  padding-top: 10px;
+  background-color: azure;
+  margin-bottom: 0px;
+}
+.label {
+  padding-top: 5px;
+  display: block;
+  font-family: serif;
+  color: azure;
+}
+.percentage {
+  color: azure;
+  display: block;
+  font-size: 20px;
+}

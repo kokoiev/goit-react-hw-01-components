@@ -1,0 +1,46 @@
+@import-normalize;
+ul {
+  list-style: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  width: 400px;
+  margin: 0 auto;
+  background-color: #ccc;
+  text-align: center;
+}
+.description {
+  padding-top: 10px;
+  align-content: center;
+}
+.avatar {
+  padding-top: 30px;
+  background-color: azure;
+  border-radius: 50%;
+  width: 150px;
+}
+.name {
+  font-size: 25px;
+  font-weight: 500;
+}
+.tag {
+  font-size: 20px;
+}
+.stats {
+  background-color: rgb(21, 204, 204);
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.label,
+.quantity {
+  display: block;
+  width: 50px;
+  font-weight: 500;
+}
